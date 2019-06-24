@@ -3,13 +3,16 @@ figcaption {
   font-size: 1em;
   line-height: 1rem;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 img,
 svg {
-  display: block; }
+  display: block;
+}
 
 figcaption {
-  padding: 1rem 0; }
+  padding: 1rem 0;
+}
 
 /*# sourceMappingURL=images.css.map */

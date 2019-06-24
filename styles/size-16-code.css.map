@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,SAAU;EACV,SAAS,EAAE,GAAG;EACd,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC",
-"sources": ["size-16-code.scss"],
-"names": [],
-"file": "size-16-code.css"
-}
